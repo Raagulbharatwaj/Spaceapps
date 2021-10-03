@@ -21,5 +21,8 @@ https://projectsedsantarik.wixsite.com/antariksh
 
 Trailer video: https://youtu.be/pgTcV61QFkE
 
-SAGA of the sun: https://youtu.be/NdlEW42mhSs
+The saga of SUN the star(animated short story): https://youtu.be/NdlEW42mhSs
 
+Demo PPT Submission: https://drive.google.com/drive/folders/1YtZEklIPRuDm49I5NA1Lv2sZUaNHkvAG
+
+Main Project Submission NSAC21: https://drive.google.com/drive/folders/1AHS4Y5cDqrCuY4nM6tbIrJdjDydCdPYc
