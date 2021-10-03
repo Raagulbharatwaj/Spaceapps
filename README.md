@@ -1,6 +1,8 @@
 # Spaceapps
 
-All the related submission links are provided below
+
+---------------All the related submission links are provided below--------------------------------------
+
 
 On surveying nearly 200 students it was evident that they were curious about ML models and how they can help in exploration and understanding of the Sun so we thought of applying AI and ML models for solar exploration.
 So here is a particular application of ML to Heliophysics. Our team found a dataset from kaggle which had the data about monthly sunspots observed during the period 1800 – 2019. We trained a LSTM based Neural Network on the data and tried to forecast the results in the test dataset and the model’s performance was astonishing. This could give people a lot of information on how data from solar expeditions could look like and what can we do with those data. From this model we can understand about the solar cycle.
